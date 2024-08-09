@@ -76,12 +76,17 @@ lang: "zh-TW"  # default lang is en (changed to TW Chinese)
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
 translate_langs:
+  - lang: zh-TW
+    img: https://www.countryflags.com/wp-content/uploads/taiwan-flag-png-large.png
+    text: Chinese (Traditional)
+    
   - lang: en
     img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
     text: English
+    
   - lang: zh-CN
     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-    text: Chinese(Simple)
+    text: Chinese (Simplify)
 
   - lang: ja
     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
